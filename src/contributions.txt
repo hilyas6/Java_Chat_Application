@@ -1,0 +1,5 @@
+Giulio Dajani [001343717] => 20%
+Hanzla Ilyas [001060407] => 20%
+Marco Gizzi [001327359] => 20%
+Nicola Ria [001339810] => 20%
+Sebastian Andrei Carp [001289569] => 20%
